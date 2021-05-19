@@ -1,0 +1,22 @@
+{
+    "name": "blink",
+    "displayName": "Bl!nk",
+    "description": "A VSCode theme inspired by the Bl!nk terminal theme",
+    "version": "0.0.1",
+    "publisher": "the-unknown",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bl!nk",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bl!nk-color-theme.json"
+            }
+        ]
+    }
+}
