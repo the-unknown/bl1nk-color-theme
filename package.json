@@ -4,6 +4,9 @@
     "description": "A VSCode theme inspired by the Bl!nk terminal theme",
     "version": "0.0.1",
     "publisher": "the-unknown",
+    "repository": {
+        "url": "https://github.com/the-unknown/blink-color-theme"
+    },
     "engines": {
         "vscode": "^1.56.0"
     },
